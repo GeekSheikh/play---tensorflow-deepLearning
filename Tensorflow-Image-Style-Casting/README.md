@@ -24,7 +24,7 @@ If it doesn't exist, create a file called ~/.keras/keras.json and make sure it l
 
 Then you can run the code via typing `jupyter notebook` into terminal
 
-# Coding Challenge -
+# Coding Challenge
 
 Use 2 different style images and transfer them both onto a base image. This can be done several ways, take your pic! And if you want even more of a challenge, bonus points are given if you instead perform basic style transfer on video. Remember, a video is just a series of image frames. You'll learn a lot about matrix operations by doing this. Good luck!
 
