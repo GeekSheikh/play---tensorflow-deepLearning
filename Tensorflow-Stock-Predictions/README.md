@@ -14,7 +14,7 @@ Install Keras from [here](https://keras.io/) and Tensorflow from [here](https://
 
 ## Usage
 
-My Code is [here]() but it's cloned and edited from [Siraj's Udacity Course]()
+My Code is [here](https://github.com/srfnmnk/play---tensorflow-deepLearning/blob/master/Tensorflow-Stock-Predictions/uniVariateStockPrediction.ipynb) but it's cloned and edited from [Siraj's Udacity Course](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101)
 
 # Coding Challenge
 
